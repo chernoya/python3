@@ -1,0 +1,7 @@
+self.data = []
+
+cart.add_item
+cart.remove
+cart.show
+cart.checkout
+cart.abandon
