@@ -10,7 +10,7 @@ def engine_start():
     for i in dialogue_startengine:
         sys.stdout.write(i)
         sys.stdout.flush()
-        time.sleep(0.2)
+        time.sleep(0.07)
         
 pp_size = float(input("What is your pp size? "))
 choice = str(input("Would you like to increase your pp size? YES [y] NO [n] "))
