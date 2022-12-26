@@ -1,2 +1,3 @@
-# python3 beginner projects
-Old projects that I made and played around with, when I first started programming. (Includes exam assignments: Cambridge IGCSE)
+# ...
+old projects that i made and played around with when i first started programming. 
+(includes cs exam assignments: Cambridge IGCSE)
